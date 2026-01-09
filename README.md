@@ -11,8 +11,6 @@ A small, educational 2D physics engine written in Java. It currently supports ci
 - [Controls](#controls)
 - [Design & architecture](#design--architecture)
 - [Physics notes & conventions](#physics-notes--conventions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Circle (disk) bodies with:
